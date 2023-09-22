@@ -1,0 +1,34 @@
+[
+    {
+        "nome": "layer1",
+        "cor": "VERMELHO",
+        "hexagonos": [
+            {
+                "titulo": "TESTE1",
+                "url": "",
+                "status": 0
+            },
+            {
+                "titulo": "TESTE2",
+                "url": "",
+                "status": 1
+            }
+        ]
+    },
+    {
+        "nome": "layer2",
+        "cor": "AZUL_DESATURADO",
+        "hexagonos": [
+            {
+                "titulo": "TESTE3",
+                "url": "",
+                "status": 2
+            },
+            {
+                "titulo": "TESTE4",
+                "url": "",
+                "status": 1
+            }
+        ]
+    }
+]
