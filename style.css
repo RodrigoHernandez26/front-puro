@@ -1,15 +1,18 @@
 :root {
     --azul: #014d80;
-    --verde-claro: #80dda2;
-    --verde-escuro: #566a3a;
-    --roxo: #7d5c92;
+    --verde-claro: #70fd8f;
+    --verde-escuro: #68d1bf;
+    --roxo: #838cf1;
     --vermelho: #ea6b66;
-    --azul-desaturado: #a8c3f1;
+    --azul-desaturado: #3cb1ff;
     --cinza: #829c9d;
     --cinza-claro: #e0e0e0;
-    --amarelo: #eec578;
+    --amarelo: #ffe68d;
     --preto: #000000;
     --branco: #ccc7c7;
+    --laranja: #ed974f;
+    --rosa: #efa8b0;
+    --vinho: #d33e6d;
 }
 
 .lista {
@@ -19,7 +22,7 @@
 }
 
 .item {
-    background-color: var(--verde-claro);
+    background-color: var(--vinho);
     width: 100px;
     height: 100px;
     list-style: none;
@@ -69,15 +72,15 @@
 }
 
 .raia2 {
-    background-color: var(--vermelho);
+    background-color: var(--roxo);
 }
 
 .raia3 {
-    background-color: var(--azul);
+    background-color: var(--laranja);
 }
 
 .raia4 {
-    background-color: var(--cinza);
+    background-color: var(--rosa);
 }
 
 .guia {
@@ -128,7 +131,7 @@
 }
 
 .exemplo2 {
-    background-color: var(--verde-claro);
+    background-color: var(--vinho);
 }
 
 .exemplo3 {
